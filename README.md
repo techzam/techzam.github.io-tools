@@ -1,6 +1,6 @@
 # TECHZAM Tools 🚀
 
-Welcome to the official tools repository by **TECHZAM** — a visionary Indian tech company founded by Suraj.  
+Welcome to the official tools repository by **TECHZAM** — a visionary Indian tech company .  
 
 ## 🌟 Live Tool: Resume Builder  
 [👉 Click to Use](https://techzam.github.io/tools/resume-builder)
